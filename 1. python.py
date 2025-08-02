@@ -31,3 +31,18 @@ a = 0
 while a<=5:
     print(a)
     a+=1
+
+# Looping from i = 0 to i = 10
+print("Loop from 0 to 10")
+for i in range(11):
+    print(i)
+
+# Looping from i = 2 to 5
+print("Loop with range: ")
+for i in range(2,5):
+    print(i)
+
+# Looping from i = 5 to i =1
+print("Reverse loop: ")
+for i in range(5,0,-1):
+    print(i)
