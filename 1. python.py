@@ -46,3 +46,30 @@ for i in range(2,5):
 print("Reverse loop: ")
 for i in range(5,0,-1):
     print(i)
+
+# division is decimal by default
+print(5/2)
+
+# to do int division, rounds down
+print(5//2)
+
+#modding is similar to most lang
+print("modding 10 by 3: ")
+print(10%3)
+
+print("modding negative 10 by 3: ")
+print(-10%3)
+
+print("Fixing the negative mod by importing math and using fmod")
+import math
+print(math.fmod(-10, 3))
+
+print("More math helpers: ")
+print("Floor, round down of 3/2")
+print(math.floor(3/2))
+print("Ceil, round up of 3/2")
+print(math.ceil(3/2))
+print("2 power 3")
+print(math.pow(2, 3))
+print("sqrt of 2")
+print(math.sqrt(2))
