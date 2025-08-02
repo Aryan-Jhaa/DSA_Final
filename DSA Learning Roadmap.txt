@@ -1,0 +1,51 @@
+DSA Learning Roadmap
+
+Phase 1: Foundations (Weeks 1-8)
+- *Learn a Language*: Master Python/Java basics (syntax, loops, functions)
+- *Big-O Notation*: Understand time/space complexity (O(1), O(n), O(n²))
+- *Arrays & Strings*: Learn traversal, slicing, and basic operations
+- *HashMaps/Dicts*: Practice frequency counting and lookups
+- *Simple Sorting*: Implement Bubble Sort, then learn Merge/Quick Sort
+- *Binary Search*: Master the template for sorted arrays
+- *Recursion*: Solve factorial, Fibonacci, and simple tree problems
+- *Basic LeetCode Easies*: Start with top-voted "Easy" problems (e.g., Two Sum)
+
+Phase 2: Core DSA (Months 2-4)
+- *Linked Lists*: Implement insertion/deletion, reverse a list
+- *Stacks & Queues*: Use for problems like Valid Parentheses
+- *Sliding Window*: Solve subarray/string problems (e.g., Longest Substring Without Repeating Characters)
+- *Two Pointers*: Master for sorted array problems (e.g., Remove Duplicates)
+- *Binary Trees*: Learn DFS (pre/in/post-order) and BFS
+- *Graph Basics*: Understand adjacency lists, DFS/BFS traversals
+- *Backtracking*: Try subsets/permutations problems
+- *50+ LeetCode Mediums*: Focus on Arrays, Strings, and Trees
+
+Phase 3: Patterns & Practice (Months 5-8)
+- *Divide & Conquer*: Solve problems like Merge K Sorted Lists
+- *Heap/Priority Queue*: Learn for top-K elements (e.g., K Closest Points)
+- *Tries*: Practice word problems (e.g., Word Search)
+- *Union-Find*: Tackle connectivity problems
+- *Dynamic Programming*: Start with 1D problems (Climbing Stairs)
+- *Memoization*: Cache results in DP problems
+- *Graph Algorithms*: Dijkstra's (shortest path), Topological Sort
+- *System Design Basics*: Design TinyURL or a cache
+
+Phase 4: Mastery (Months 9-12)
+- *Advanced Problems*: Attempt 10-20 LeetCode Hards (e.g., Merge K Sorted Lists)
+- *Mock Interviews*: Use Pramp/LeetCode Interview Simulator weekly
+- *Revisit Weak Areas*: Focus on 2-3 problem types you struggle with
+- *Competitive Coding*: Join LeetCode contests (optional)
+- *Behavioral Prep*: Practice STAR method for interviews
+- *Final Review*: Re-solve 50 high-frequency problems (e.g., NeetCode 150)
+
+Key Principles
+- *Daily Practice*: 2-3 hours/day (1-2 problems + review)
+- *Active Learning*: Spend 20-30 minutes trying a problem before checking solutions
+- *Spaced Repetition*: Revisit old problems weekly
+- *Patterns > Memorization*: Focus on recognizing problem types
+
+Target
+- *6 Months*: ~300 problems (focus on Easy/Medium)
+- *12 Months*: ~500 problems (include Hards)
+
+By following this roadmap, you can develop a strong foundation in DSA and improve your problem-solving skills. Adjust the pace based on your progress and needs.
