@@ -1,3 +1,4 @@
+# check palindrome
 n = input()
 
 num = int(n)
