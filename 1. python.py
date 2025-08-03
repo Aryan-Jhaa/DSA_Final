@@ -170,3 +170,10 @@ print(city_map)
 
 city_map = city_map.values()
 print(city_map)
+
+# functions in python
+
+def myFunc(n,m):
+    return n*m
+
+print(myFunc(n=2, m=4))
