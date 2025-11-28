@@ -177,3 +177,23 @@ def myFunc(n,m):
     return n*m
 
 print(myFunc(n=2, m=4))
+
+
+#List
+
+ingredients = ["water", "tea leaves", "sugar"]
+
+#mutable allows to append 
+
+ingredients.append("sugar")
+print(f"Ingredients are: {ingredients}")
+
+ingredients.remove("water")
+print(f"Ingredients are {ingredients}")
+
+chai_options = ["cardamom", "ginger"]
+chai_ingredients = ["milk", "tea leaves"]
+
+chai_ingredients.extend(chai_options)
+
+print(f"Chai ingredients are : {chai_ingredients}")
